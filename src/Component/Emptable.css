@@ -1,0 +1,41 @@
+.addbtn{
+    float: right;
+    background-color: black !important;
+    color: white !important;
+    border-radius: 20px !important;
+    padding: 8px !important;
+    font-size: 14px !important;
+
+}
+.btnokay{
+    background-color: black !important;
+    color: white !important;
+    border-radius: 20px !important;
+    padding: 8px !important;
+    font-size: 14px !important;
+    
+}
+.icon{
+    color: black !important;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.trashcenter{
+    align-items: center;
+    margin-left: 42%;
+}
+.center-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.trashimage{
+    width: 100px !important;
+    height: 100px !important;
+    background-color: white !important;
+    color:  white !important;
+}
